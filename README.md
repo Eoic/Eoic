@@ -4,7 +4,7 @@ Hi there.
 * 🏆 2021 Goals: Learn Golang
 
 ### Reach me at:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/karolis-strazdas/)
+[<img align="left" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/Eoic/Eoic/master/linkedin.png" />](https://www.linkedin.com/in/karolis-strazdas/)
 </br>
 ---
 ![Eoic's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoic&count_private=true&show_icons=true&theme=tokyonight)
