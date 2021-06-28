@@ -1,6 +1,6 @@
 Hi there.
 
-* 🔨 In my free time I’m building a robot programming game [NetBots](https://github.com/Eoic/netbots) which similar to [Robocode](https://robocode.sourceforge.io/).
+* 🔨 In my free time I’m building a robot programming game [NetBots](https://github.com/Eoic/net-bots) which similar to [Robocode](https://robocode.sourceforge.io/).
 * 🏆 2021 Goals: Learn Golang
 
 ### Reach me at:
