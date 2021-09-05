@@ -1,7 +1,4 @@
 Hi there.
-
-🔨 In my free time I’m building a robot programming game [NetBots](https://github.com/Eoic/net-bots) which is similar to [Robocode](https://robocode.sourceforge.io/).
-
 ### Reach me at:
 [<img align="left" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/Eoic/Eoic/master/linkedin.png" />](https://www.linkedin.com/in/karolis-strazdas/)
 </br>
