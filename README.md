@@ -1,4 +1,4 @@
-Hello there! As a self-proclaimed book hoarder and avid reader, I can't resist amassing books in both digital and physical formats. In my spare time I often work on my side projects, and explore new languages, tools, frameworks and sofware development practices. Additionally, I hold a growing interest in 3D graphics programming and 3D modelling.
+Hello there! I enjoy reading and hoarding books both digital and physical formats. In my spare time I sometimes work on my side projects, explore new languages, tools, frameworks, and sofware development practices. Additionally, I hold a growing interest in 3D graphics programming and 3D modelling.
 
 ##### Currently learning
 * Blender
